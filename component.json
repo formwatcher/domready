@@ -1,0 +1,9 @@
+{
+    "name": "domready"
+  , "repo": "formwatcher/domready"
+  , "description": "bullet proof DOM ready method"
+  , "version": "0.2.11"
+  , "keywords": ["ender", "domready", "dom"]
+  , "main": "./ready.js"
+  , "scripts": ["./ready.js"]
+}
